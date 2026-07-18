@@ -1,10 +1,8 @@
 # Увод в програмирането 2024/25
 
-### Съдържание
-
 | Седмица                                                                                                 | Теми                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[01](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2001)** | Увод в програмирането със C++. Среда за разработка (IDE). Примитивни типове данни. Основни аритметични операции. Вход и изход от конзолата. |
+| **[01](https://github.com/NikiStoyanov/fmi-up/tree/main/week-01)** | Увод в програмирането със C++. Примитивни типове данни. Основни аритметични операции. Вход и изход от конзолата. Условни оператори. |
 | **[02](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2002)** | Git и GitHub. Цикли. Оператори за цикъл. Break и continue. |
 | **[03](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2003)** | Цикли (продължение) |
 |**[04](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2004)** | Функции |
