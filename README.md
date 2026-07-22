@@ -2,11 +2,10 @@
 
 | Седмица                                                                                                 | Теми                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[01](https://github.com/NikiStoyanov/fmi-up/tree/main/week-01)** | Увод. Типове данни. Основни операции и оператори. Вход и Изход на конзолата. |
-| **[02](https://github.com/NikiStoyanov/fmi-up/tree/main/week-02)** | Условни оператори. Git и GitHub. |
-| **[03](https://github.com/NikiStoyanov/fmi-up/tree/main/week-03)** | Цикли. Оператори за цикъл. Break и continue. |
-| **[04](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2004)** | Функции |
-| **[05](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2005)** | Функции (продължение). Подаване на аргумент по копие и по референция. Връщане на копие или референция |
+| **[01](https://github.com/NikiStoyanov/fmi-up/tree/main/01-introduction)** | Увод. Типове данни. Основни операции и оператори. Вход и Изход на конзолата. |
+| **[02](https://github.com/NikiStoyanov/fmi-up/tree/main/02-conditional-statements)** | Условни оператори. Git и GitHub. |
+| **[03](https://github.com/NikiStoyanov/fmi-up/tree/main/03-loops)** | Цикли. Оператори за цикъл. Break и continue. |
+| **[04](https://github.com/NikiStoyanov/fmi-up/tree/main/04-functions)** | Функции |
 | **[06](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2006)** | Mасиви. Подаване на масиви като аргументи на функция. Достъп и търсене на елементи в масив |
 | **[07](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2007)** | Многомерни масиви. Матрици. Обхождане на матрица |
 **[08](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2008)** | Матрици (продължение). Подготовка за контролно 2 |
