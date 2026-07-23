@@ -6,7 +6,7 @@
 | **[02](https://github.com/NikiStoyanov/fmi-up/tree/main/02-conditional-statements)** | Условни оператори. Git и GitHub. |
 | **[03](https://github.com/NikiStoyanov/fmi-up/tree/main/03-loops)** | Цикли. Оператори за цикъл. Break и continue. |
 | **[04](https://github.com/NikiStoyanov/fmi-up/tree/main/04-functions)** | Функции |
-| **[06](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2006)** | Mасиви. Подаване на масиви като аргументи на функция. Достъп и търсене на елементи в масив |
+| **[05](https://github.com/NikiStoyanov/fmi-up/tree/main/05-arrays)** | Mасиви. Подаване на масиви като аргументи на функция. Достъп и търсене на елементи в масив |
 | **[07](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2007)** | Многомерни масиви. Матрици. Обхождане на матрица |
 **[08](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2008)** | Матрици (продължение). Подготовка за контролно 2 |
 **[09](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/tree/main/Week%2009)** | Бройни системи. Побитови операции. |

@@ -2,6 +2,8 @@
 
 **Масивите** представляват последователни позиции в паметта, които позволяват съхранението на множество елементи от един и същи тип. Те са подходящи за случаи, в които е необходимо да се работи с множество данни от един и същ тип (например списък с числа или символи).
 
+<img src="assets/array.png" alt="memory representation of an array" width="600" />
+
 #### Деклариране
 
 При деклариране на масив, е нужно да се посочи типа и размера му. Размерът на масива трябва да е известно число.
@@ -165,9 +167,3 @@ int main() {
 	return 0;
 }
 ```
----
-
-### Търсене на елементи в масив
-
-- [Linear search](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/blob/main/Week%2006/Arrays/linearSearch.cpp)
-- [Binary search](https://github.com/StefanShivarov/introduction-to-programming-fmi-2025-26/blob/main/Week%2006/Arrays/binarySearch.cpp)
