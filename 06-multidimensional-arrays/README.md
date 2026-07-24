@@ -17,7 +17,29 @@ int matrix[2][3] = {
 };
 ```
 
-**Обхождане на двумерен масив:**
+---
+
+## Визуализация на многомерни масиви
+
+### Представяне в паметта
+
+<img src="assets/memory.webp" alt="memory representation of an array" width="600" />
+
+### Достъп до елемент
+
+<img src="assets/2d.png" alt="matrix visualization" width="600" />
+
+ ```c++
+ int* row = arr[1]; //ред 1 (масивът на индекс 1)
+ std::cout << arr[2][0]<< std::endl //11;
+ std::cout << row[2]<< std::endl //7;
+```
+
+### Тримерен масив
+
+<img src="assets/3d.jpg" alt="representation of a 3d array" width="600" />
+
+## Обхождане на двумерен масив:
 
 ```cpp
 int matrix[2][3] = {
@@ -101,10 +123,6 @@ int main() {
 
 ---
 
-### Диагонали на матрица
-
-![](https://www.opentechguides.com/images/howto/howto_24301.webp)
-
 #### Главен диагонал
 
 Главният диагонал на квадратна матрица се състои от елементите, при които индексите на реда и колоната са равни: А[i][j], i = j.
@@ -137,7 +155,7 @@ int main() {
 
 ### Друго по-интересно диагонално обхождане на матрица:
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/zigzag-1.png)
+<img src="assets/zigzag-traversal.png" alt="zig-zag traversal of aa matrix" width="600" />
 
 ```cpp
 #include <iostream>
@@ -204,7 +222,7 @@ int main() {
 
 ### Спирално обхождане на матрица
 
-![](https://files.prepinsta.com/2022/05/Spiral-Traversal-of-a-Matrix-in-Python-768x421.webp)
+<img src="assets/spiral-traversal.webp" alt="spiral traversal of a matrix" width="600" />
 
 ```cpp
 #include <iostream>
