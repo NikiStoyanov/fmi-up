@@ -1,4 +1,4 @@
-# Указатели. Адресна аритметика. Символни низове. Операции със символни низове
+# Указатели. Адресна аритметика. Символни низове. Операции със символни низове.
 
 ### Указатели
 
@@ -79,7 +79,7 @@ p = &q2; // Compilation error
 #### Spiral Rule
 Правилото гласи, започнете от името на променливата и се придвижваме по посока на часовниковата стрелка до следващия указател или тип.
 
-![Spiral rule](https://velog.velcdn.com/images/beechwood/post/31ad6ffd-74cd-4bd9-8205-4c3bf7bba574/image.png)
+<img src="assets/spiral-rule.png" alt="spiral rule for pointers" width="600" />
 
 
 ---
@@ -128,7 +128,7 @@ cout << ptr[0] << endl; // 1
 cout << ptr[1] << endl; // 2
 ```
 
-![enter image description here](https://i.ibb.co/cDcX8st/Untitled-Diagram-drawio-3.png)
+<img src="assets/ptr-1.png" alt="representation of a pointer" width="600" />
 
 ```cpp
 ptr++; // изместваме адреса към който сочи ptr с 1 място (4 bytes = sizeof(int)), сега ще сочи към втория елемент
@@ -137,7 +137,7 @@ cout << ptr[0]; //2;
 cout << ptr[1]; //3;
 ```
 
-![enter image description here](https://i.ibb.co/xLLsVK5/Untitled-Diagram-drawio-4.png)
+<img src="assets/ptr-2.png" alt="representation of a pointer shifting" width="600" />
 
 Тоест `ptr[i]` е еквивалентно на `*(ptr + i)`
 
@@ -202,7 +202,7 @@ int main() {
     char str3[7] = "test";
 ```
 
-![enter image description here](https://i.ibb.co/ZmRwt6R/Untitled-Diagram-drawio-5.png)
+<img src="assets/terminating-zero.png" alt="representation of a terminating zero" width="600" />
 
 ---
 ### Четене на символни низове от конзолата
