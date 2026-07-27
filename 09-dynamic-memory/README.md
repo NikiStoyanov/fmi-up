@@ -1,4 +1,4 @@
-# Динамична памет. Stack и Heap. Оператори `new` и `delete`. Memory leak
+# Динамична памет. Оператори `new` и `delete`. Работа с динамични масиви.
 
 По време на изпълнение всяка C++ програма използва памет (RAM).
 Най-важните две области, които ще разглеждаме, са:
@@ -44,7 +44,6 @@ int* bad() {
 
 Това също води до **dangling pointer**. Върнатият указател ще сочи към вече освободена памет (понеже паметта заделена в стека се зачиства автоматично на края на дадения scope).
 
----
 
 ---
 ### Динамична памет (Heap)
@@ -88,7 +87,7 @@ cin >> size;
 int *arr = new int[size]; // dynamically allocated array on the Heap, arr points to the first element of the array, size consecutive ints in heap
 ```
 
-![Memory](https://dotnettutorials.net/wp-content/uploads/2022/03/word-image-3.png)
+<img src="assets/memory.png" alt="representation of a dynamically allocated variable" width="600" />
 
 ---
 
@@ -209,7 +208,7 @@ delete[] a;
 ---
 
 ### Memory leak
-![Memory-Leak-example](https://www.baeldung.com/wp-content/uploads/2018/11/Memory-_Leak-_In-_Java.png)
+<img src="assets/memory-leak.webp" alt="memory leak" width="600" />
 
 След приключването на функцията ще се изчисти паметта в стека, но НЕ и паметта в heap-а. <br />
 За това ние трябва ръчно да я маркираме като свободна. <br />
