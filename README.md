@@ -12,3 +12,4 @@
 | **[08](https://github.com/NikiStoyanov/fmi-up/tree/main/08-pointers)** | Указатели. Адресна аритметика. Символни низове. Операции със символни низове. |
 | **[09](https://github.com/NikiStoyanov/fmi-up/tree/main/09-dynamic-memory)** | Динамична памет. Оператори `new` и `delete`. Работа с динамични масиви. |
 | **[10](https://github.com/NikiStoyanov/fmi-up/tree/main/10-recursion)** | Рекурсия. |
+| **[11](https://github.com/NikiStoyanov/fmi-up/tree/main/11-exam-prep)** | Подготовка за изпит. |
